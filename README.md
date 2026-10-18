@@ -20,3 +20,16 @@ A Python CLI application powered by the Google Gemini API (gemini-2.5-flash) tha
 ### 1. Install dependencies
 ```bash
 pip install google-genai
+```
+### 2. Set your Gemini API Key
+-**Windows (CMD) :**
+ `set GEMINI_API_KEY=your_api_key_here`
+ -**Linux/Mac:**
+  `export GEMINI_API_KEY=your_api_key_here`
+  ```
+### 3. Run the tool
+-**Analyze notes from a file:**
+ `python main.py notes.txt`
+-**Interactive mode (paste notes directly):**
+ `python main.py`
+ ```
