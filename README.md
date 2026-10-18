@@ -1,6 +1,6 @@
 # AI Study Assistant & Quiz Generator
 
-A Python CLI application powered by the Google Gemini API (gemini-2.5-flash) that transforms study notes and documents into summaries, flashcards, and practice quizzes.
+A Python CLI application powered by the Google Gemini API (gemini-3.8-flash) that transforms study notes and documents into summaries, flashcards, and practice quizzes.
 
 *Author:* Aryan Rathi  
 *CU ID:* CU26220292  
